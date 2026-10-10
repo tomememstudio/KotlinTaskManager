@@ -1,4 +1,3 @@
-
 import java.util.Scanner
 
 // Represents one task and its completion status.

@@ -6,7 +6,7 @@ I created this software to improve my software development skills and gain pract
 
 My goal was to develop a useful application while improving my understanding of Kotlin fundamentals and writing code that is organized, readable, and easy to maintain.
 
-[Software Demo Video](https://www.youtube.com/)
+[Software Demo Video] https://youtu.be/Igc4SB6gpf8
 
 # Development Environment
 
